@@ -1,1 +1,1 @@
-# Omnistack week Rocketseat
+# Oministack week Rocketseat
