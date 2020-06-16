@@ -4,7 +4,7 @@
 
 ## :rocket: Omnistack Week 
 
-this app was made in the week omnistack, instagram clone for studies
+This app was made in the week omnistack, instagram clone for studies
 
 ## :robot: Techs
 
