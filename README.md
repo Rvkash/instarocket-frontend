@@ -12,5 +12,5 @@ Nodejs
 Reactjs
 ReactNative
 
-Made by :heart: by [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
+Made by [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
 
