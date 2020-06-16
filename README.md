@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="instagram" src="https://image.freepik.com/vetores-gratis/instagram-logo-pack_1051-989.jpg" />
+    <img alt="instagram" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOVbnJG6kUiXU3vQxyHrUXu2gvqBtR78pLt-mciXHVkLWE9igF&usqp=CAU" />
 </h1>
 
 ## :rocket: Omnistack Week 
